@@ -1,0 +1,6 @@
+method,weight_in_consensus,precision_at_5,precision_at_10,median_rank_of_true
+product,0.06,0.0,0.0,60.0
+cpdb,0.355,0.0,0.0,21.5
+perm_fold,0.356,0.6,0.3,3.0
+specificity,0.229,0.8,0.4,2.5
+consensus,,0.4,0.4,4.0
